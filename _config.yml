@@ -10,17 +10,18 @@
 
 title: Yusuf Afandi                         # the main title
 
-tagline: Take a look all of my works   # it will display as the sub-title
+tagline: Dari tulisan random hingga portfolio professional
+   saya tulis semuanya di sini. Semoga menarik untuk dibaca.
 
 description: >-                        # used by seo meta and the atom feed
-  This is my recent works as freelance programmer.
+   Ditambah nanti saja deskripsinya jika senggang.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://afandiyusuf.github.io'
 
 author: Yusuf Afandi                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.jpeg   # support internet resources
 
 github:
   username: afandiyusuf             # change to your github username
