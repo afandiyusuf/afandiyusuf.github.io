@@ -9,6 +9,11 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: Portfolio
+  icon: "fas fa-home"
+  path: tabs
+  url: portfolio
+-
   name: Categories
   icon: "fas fa-stream"
   path: tabs
