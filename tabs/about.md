@@ -26,7 +26,7 @@ Pengalaman pekerjaan saya yang terakhir adalah 1.5 tahun menjadi CTO di sebuah s
 
 Mungkin sekilas saya terlihat sangat hebat, namun justru saya merasa payah, karena dari banyak teknologi yang saya pelajari tersebut tidak ada satupun pemahaman saya sampai di tingkat expert. Bisa dibilang kemampuan saya banyak tapi hanya di tingkat pemula/menengah.
 
-Jadi, setelah saya berhenti bekerja menjadi CTO dan memutuskan untuk menjadi freelancer, saya memilih untuk mengembangkan ilmu saya hanya di beberapa titik dan berharap bisa menjadi expert di bidang tersebut yaitu: **Fullstack** dan **Mobile Developer** atau bisa dibilang teknologi yang saat ini sangat ingin sayat tekuni adalah:
+Jadi, setelah saya berhenti bekerja menjadi CTO dan memutuskan untuk menjadi freelancer, saya memilih untuk mengembangkan ilmu, hanya di beberapa titik dan berharap bisa menjadi expert di bidang tersebut, yaitu: **Fullstack** dan **Mobile Developer** .Lebih detail teknologi yang saat ini sangat ingin sayat tekuni adalah:
 
 - Native android (kotlin).
 - Native ios (swift).
